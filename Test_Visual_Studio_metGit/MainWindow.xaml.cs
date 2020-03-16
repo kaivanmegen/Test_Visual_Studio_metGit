@@ -23,6 +23,7 @@ namespace Test_Visual_Studio_metGit
         public MainWindow()
         {
             InitializeComponent();
+            //hallo
         }
     }
 }
